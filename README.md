@@ -3,6 +3,8 @@ TSGB: Target-Selective Gradient Backprop for Probing CNN Visual Saliency, Pytorc
 
 This is the implementation for our TIP paper "TSGB: Target-Selective Gradient Backprop for Probing CNN Visual Saliency".
 
+Run from saliency_comparison_methods.py
+
 If you make use of our work, please cite our paper:
 
 @article{DBLP:journals/tip/ChengFLZSW22,
